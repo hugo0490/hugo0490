@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Hugo
 
-🎓 Étudiant en 3ᵉ année de **Réseau et Télécommunications**, passionné par les technologies réseau, la cybersécurité et le développement web.  
+🎓 Étudiant en 3ᵉ année de **Réseau et Télécommunications**,  
 Je partage ici mes projets réalisés dans le cadre de mes études et mes explorations personnelles en informatique.
 
 ---
@@ -15,7 +15,7 @@ Je partage ici mes projets réalisés dans le cadre de mes études et mes explor
 
 ## 🚀 Projets récents
 - **Kudos Crew** — Reproduction et adaptation d’un site web communautaire type KudosPrime
-- **Covowhat** — Projet d’application collaborative autour de la sensibilisation COVID-19
+- **Covowhat** — Projet d’application collaborative.
 
 _(D’autres projets à venir !)_
 
