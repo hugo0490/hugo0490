@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Hugo
 
-<!--
-**hugo0490/hugo0490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en 3ᵉ année de **Réseau et Télécommunications**, passionné par les technologies réseau, la cybersécurité et le développement web.  
+Je partage ici mes projets réalisés dans le cadre de mes études et mes explorations personnelles en informatique.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Compétences principales
+- **Réseaux :** configuration Cisco, VLAN, routage, VPN, pare-feu
+- **Systèmes :** Linux, Windows Server, virtualisation (VMware, VirtualBox)
+- **Développement :** HTML, CSS, JavaScript, Python, Bash
+- **Outils :** Wireshark, Packet Tracer, Git, GitHub, Trello
+
+---
+
+## 🚀 Projets récents
+- **Kudos Crew** — Reproduction et adaptation d’un site web communautaire type KudosPrime
+- **Covowhat** — Projet d’application collaborative autour de la sensibilisation COVID-19
+
+_(D’autres projets à venir !)_
+
+---
+
+## 📫 Me contacter
+
+💼 [LinkedIn](#https://www.linkedin.com/in/hugo-coston-0674052a2/)
+
+---
