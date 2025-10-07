@@ -23,6 +23,6 @@ _(D’autres projets à venir !)_
 
 ## 📫 Me contacter
 
-💼 [LinkedIn](#https://www.linkedin.com/in/hugo-coston-0674052a2/)
+💼 [LinkedIn](#) _(https://www.linkedin.com/in/hugo-coston-0674052a2/)_
 
 ---
